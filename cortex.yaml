@@ -1,0 +1,10 @@
+openapi: 3.0.1
+info:
+  title: Docker Configs
+  description: Docker info
+  x-cortex-git:
+    github:
+      alias: cortex
+      repository: CSUCortex/docker-configs
+  x-cortex-tag: csucortex-docker-configs
+  x-cortex-type: service
